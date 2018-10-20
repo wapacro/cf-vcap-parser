@@ -1,0 +1,15 @@
+{
+    "name": "wapacro/cf-vcap-parser",
+    "authors": [
+        {
+            "name": "Roman Ackermann",
+            "email": "roman@waprogramms.com"
+        }
+    ],
+    "require": {},
+	"autoload": {
+        "psr-4": {
+            "wapacro\\VcapParser\\": "src"
+        }
+    }
+}
